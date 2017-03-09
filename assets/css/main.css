@@ -1612,11 +1612,11 @@
 			background: -webkit-linear-gradient(#F8FFAE, #43C6AC); /* Chrome 10-25, Safari 5.1-6 */
 			background: linear-gradient(#F8FFAE, #43C6AC); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */     
 			color: #999;
-			text-shadow: -1px -1px 0px #181818;
+			text-shadow: none;
 		}
 
 			.wrapper.style4 h1, .wrapper.style4 h2, .wrapper.style4 h3, .wrapper.style4 h4, .wrapper.style4 h5, .wrapper.style4 h6 {
-				color: #fff;
+				color: #3e3e3e;
 			}
 
 			.wrapper.style4 form input[type=text],
