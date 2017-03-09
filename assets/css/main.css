@@ -1581,8 +1581,9 @@
 /* Wrappers */
 
 	.wrapper {
-		background-image: url("images/bg.png");
-		box-shadow: inset 0px 1px 0px 0px rgba(0, 0, 0, 0.05), inset 0px 2px 3px 0px rgba(0, 0, 0, 0.1);
+		/* background-image: url("images/bg.png"); 
+		box-shadow: inset 0px 1px 0px 0px rgba(0, 0, 0, 0.05), inset 0px 2px 3px 0px rgba(0, 0, 0, 0.1);*/
+		box-shadow: none;
 	}
 
 		.wrapper.first {
@@ -1592,8 +1593,8 @@
 		.wrapper.style1 {
 			background-image: none;
 			background: #50C9C3; /* fallback for old browsers */
-			background: -webkit-linear-gradient(#50C9C3 , #96DEDA); /* Chrome 10-25, Safari 5.1-6 */
-			background: linear-gradient(#50C9C3 , #96DEDA); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */     		
+			background: -webkit-linear-gradient(#F8FFAE, #43C6AC); /* Chrome 10-25, Safari 5.1-6 */
+			background: linear-gradient(#F8FFAE, #43C6AC); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */     		
 }
 
 		.wrapper.style2 {
@@ -1602,8 +1603,10 @@
 		}
 
 		.wrapper.style3 {
-			background-color: #f4f4f4;
 			text-shadow: 1px 1px 0px #fff;
+			background: #333; /* fallback for old browsers */
+			background: -webkit-linear-gradient(#43C6AC , #F8FFAE); /* Chrome 10-25, Safari 5.1-6 */
+			background: linear-gradient(#43C6AC , #F8FFAE); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */     		
 		}
 
 		.wrapper.style4 {
