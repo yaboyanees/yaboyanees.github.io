@@ -1724,6 +1724,7 @@
 			h1 {
 				font-size: 3.25em;
 				letter-spacing: -0.025em;
+				margin: 0 0 0.35em 0;
 			}
 
 			h2 {
@@ -1736,8 +1737,8 @@
 				letter-spacing: -0.015em;
 			}
 
-			h1, h2, h3, h4, h5, h6 {
-				margin: 0 0 0.35em 0;
+			h2, h3, h4, h5, h6 {
+				margin: 0 0 0.75em 0;
 			}
 
 			header {
