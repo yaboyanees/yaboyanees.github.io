@@ -1317,7 +1317,7 @@
 		.image.html {
 			width: 82%;
 		}
-		
+
 		.image.featured {
 			display: block;
 			width: 100%;
@@ -1589,7 +1589,7 @@
 			background-image: none;
 			background: #50C9C3; /* fallback for old browsers */
 			background: -webkit-linear-gradient(#43C6AC, #F9F9F9); /* Chrome 10-25, Safari 5.1-6 */
-			background: linear-gradient(#43C6AC, #F9F9F9); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */     		
+			background: linear-gradient(#43C6AC, #F9F9F9); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
 		.wrapper.style2 {
@@ -1599,13 +1599,13 @@
 
 		.wrapper.style3 {
 			text-shadow: 1px 1px 0px #fff;
-			background: #F9F9F9; /* fallback for old browsers */		
+			background: #F9F9F9; /* fallback for old browsers */
 		}
 
 		.wrapper.style4 {
-			background: #333; /* fallback for old browsers */	
+			background: #333; /* fallback for old browsers */
 			background: -webkit-linear-gradient(#F9F9F9, #43C6AC); /* Chrome 10-25, Safari 5.1-6 */
-			background: linear-gradient(#F9F9F9, #43C6AC); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */     
+			background: linear-gradient(#F9F9F9, #43C6AC); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 			color: #999;
 			text-shadow: none;
 		}
