@@ -1774,7 +1774,7 @@
 				font-size: 1.1em;
 				border-radius: 50px;
 				background: #55b9f3;
-				box-shadow: 5px 10px 60px #489dcf, -5px -10px 60px #62d5ff;
+				box-shadow: 5px 10px 25px #489dcf, -5px -10px 25px #62d5ff;
 			}
 			.no-box{box-shadow: none !important;}
 
