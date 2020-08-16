@@ -1453,7 +1453,6 @@
 					transition: background-color .2s ease-in-out;
 					background-color: inherit;
 					border-radius: 6px;
-					color: #2E2E2E !important;
 					display: block;
 					font-size: 26px;
 					height: 48px;
@@ -1461,7 +1460,7 @@
 					text-align: center;
 					outline: 0;
 					overflow: hidden;
-					text-shadow: 1px 1px 0px rgba(255, 255, 255, 0.1);
+					text-shadow: 1px 1px 1px #333;
 					width: 48px;
 				}
 
@@ -1773,7 +1772,11 @@
 			.button {
 				padding: 1em 2.35em 1em 2.35em;
 				font-size: 1.1em;
+				border-radius: 50px;
+				background: #55b9f3;
+				box-shadow: 5px 10px 60px #489dcf, -5px -10px 60px #62d5ff;
 			}
+			.no-box{box-shadow: none !important;}
 
 				input[type="button"].big,
 				input[type="submit"].big,
@@ -1952,6 +1955,7 @@
 			h1, h2, h3, h4, h5, h6 {
 				font-size: 1.25em;
 				margin: 0 0 0.4em 0;
+				text-shadow: 1px 1px 3px #FFf
 			}
 
 			h1 {
