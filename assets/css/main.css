@@ -2000,6 +2000,9 @@
 				font-size: 1.2em;
 				width: 100%;
 				padding: 1em 0 1em 0;
+				border-radius: 50px;
+				background: #55b9f3;
+				box-shadow: 5px 10px 25px #489dcf, -5px -10px 25px #62d5ff;
 			}
 
 		/* List */
