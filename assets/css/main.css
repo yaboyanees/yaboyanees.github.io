@@ -110,6 +110,34 @@
 
 	}
 
+	.cssanimation {
+    animation-duration: 1s;
+    animation-fill-mode: both;
+    text-shadow:none;
+}
+
+.cssanimation {
+    animation-duration: 1.5s;
+    animation-fill-mode: both;
+    text-shadow:none;
+}
+
+.elevateRight { animation-name: elevateRight }
+@keyframes elevateRight {
+    from {
+        transform: translateY(100%) rotate(0deg);
+        transform-origin: left;
+    }
+    30% {
+        transform: rotate(-20deg);
+        transform-origin: left;
+    }
+    5% {
+        transform: rotate(0deg);
+        transform-origin: left;
+    }
+}
+
 	@media screen and (min-width: 737px) and (max-width: 1200px) {
 
 		.container.\31 25\25 {
