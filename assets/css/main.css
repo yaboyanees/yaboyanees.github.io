@@ -111,13 +111,13 @@
 	}
 
 	.cssanimation {
-    animation-duration: 1s;
+    animation-duration: 1.25s;
     animation-fill-mode: both;
     text-shadow:none;
 }
 
 .cssanimation {
-    animation-duration: 1.5s;
+    animation-duration: 1.25s;
     animation-fill-mode: both;
     text-shadow:none;
 }
@@ -129,7 +129,7 @@
         transform-origin: left;
     }
     30% {
-        transform: rotate(-20deg);
+        transform: rotate(-5deg);
         transform-origin: left;
     }
     5% {
