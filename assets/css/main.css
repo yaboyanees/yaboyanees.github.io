@@ -1399,7 +1399,7 @@
 		input[type="reset"]:hover,
 		button:hover,
 		.button:hover {
-			background-color: #1f64af;
+			background-color: #00507e;
 			color: #fff !important;
 		}
 
@@ -2025,7 +2025,7 @@
 				width: 100%;
 				padding: 1em 0 1em 0;
 				border-radius: 50px;
-				background: #145c9e;
+				background: #1f64af;
 				box-shadow: 2px 2px 2px #2ea3e9, -2px -2px 15px #62d5ff
 			}
 
