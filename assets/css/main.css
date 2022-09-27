@@ -1399,7 +1399,7 @@
 		input[type="reset"]:hover,
 		button:hover,
 		.button:hover {
-			background-color: #43bff0;
+			background-color: #1f64af;
 			color: #fff !important;
 		}
 
@@ -1564,7 +1564,7 @@
 
 	.box {
 		background: #fff;
-		box-shadow: inset 0px 0px 0px 1px rgba(0, 0, 0, 0.15), 0px 2px 3px 0px rgba(0, 0, 0, 0.1);
+		box-shadow: 0px 0px 0px 0px rgb(0 0 0 / 15%), 0px 2px 3px 0px rgb(0 0 0 / 10%)
 		text-align: center;
 	}
 
@@ -1614,9 +1614,7 @@
 
 		.wrapper.style1 {
 			background-image: none;
-			background: #50C9C3; /* fallback for old browsers */
-			background: -webkit-linear-gradient(#43C6AC, #F9F9F9); /* Chrome 10-25, Safari 5.1-6 */
-			background: linear-gradient(#43C6AC, #F9F9F9); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+			background: #00ddbb;
 }
 
 		.wrapper.style2 {
@@ -1626,13 +1624,11 @@
 
 		.wrapper.style3 {
 			text-shadow: 1px 1px 0px #fff;
-			background: #F9F9F9; /* fallback for old browsers */
+			background: #fafafa;
 		}
 
 		.wrapper.style4 {
-			background: #333; /* fallback for old browsers */
-			background: -webkit-linear-gradient(#F9F9F9, #43C6AC); /* Chrome 10-25, Safari 5.1-6 */
-			background: linear-gradient(#F9F9F9, #43C6AC); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+			background: #00ddbb;
 			color: #999;
 			text-shadow: none;
 		}
@@ -2029,8 +2025,8 @@
 				width: 100%;
 				padding: 1em 0 1em 0;
 				border-radius: 50px;
-				background: #55b9f3;
-				box-shadow: 5px 10px 25px #489dcf, -5px -10px 25px #62d5ff;
+				background: #145c9e;
+				box-shadow: 2px 2px 2px #2ea3e9, -2px -2px 15px #62d5ff
 			}
 
 		/* List */
