@@ -1399,7 +1399,7 @@
 		input[type="reset"]:hover,
 		button:hover,
 		.button:hover {
-			background-color: #00507e;
+			background-color: #55b9f3;
 			color: #fff !important;
 		}
 
@@ -1797,7 +1797,7 @@
 				padding: 1em 2.35em 1em 2.35em;
 				font-size: 1.1em;
 				border-radius: 50px;
-				background: #55b9f3;
+				background: #00507e; 
 				box-shadow: 5px 10px 25px #489dcf, -5px -10px 25px #62d5ff;
 			}
 			.no-box{box-shadow: none !important;}
