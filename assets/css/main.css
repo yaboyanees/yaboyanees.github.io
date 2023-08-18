@@ -1396,7 +1396,7 @@
 		input[type="reset"]:hover,
 		button:hover,
 		.button:hover {
-			background-color: #8ae9ff;
+			opacity: 0.9;
 			color: #fff !important;
 		}
 
