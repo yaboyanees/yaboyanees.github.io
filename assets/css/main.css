@@ -1485,7 +1485,6 @@
 					text-align: center;
 					outline: 0;
 					overflow: hidden;
-					text-shadow: 1px 1px 1px #333;
 					width: 48px;
 				}
 
@@ -1712,7 +1711,7 @@
 /* Copyright */
 
 	#copyright {
-		color: #666;
+		color: #444;
 	}
 
 		#copyright a {
